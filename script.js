@@ -3,7 +3,7 @@ function firstAnimation() {
 tl.to(".yellow1", {
     y: "-100%",
     duration: 0.5,
-    delay: 1,
+    delay: 3,
     ease: "expo.out"
 })
 tl.to(".loader video", {
